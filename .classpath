@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_191"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="json-lib-2.4.jar"/>
+	<classpathentry kind="lib" path="jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="xom-1.2.5.jar"/>
+	<classpathentry kind="lib" path="commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="gnujaxp-1.0.0.jar"/>
+	<classpathentry kind="lib" path="jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="jfreechart-1.0.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
